@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Don't mind about this readme for now, I'm just testing a few things.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <!--
 **quarksaur/quarksaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
