@@ -3,7 +3,7 @@ Clickity clackity click, I just wrote an infinite loop, and my PC is about to go
 
 ---
 
-## 👋 Hello, world
+## 👋 Hello world
 
 Hi! My name is Quarksaur and I'm a 19 years old aspiring full stack developer.
 
