@@ -1,12 +1,11 @@
 # 🦖 Welcome to my GitHub space
-Clickity clackity click, I just wrote an infinite loop and my PC is about to go boom.
+Clickity clackity click, I just wrote an infinite loop, and my PC is about to go boom.
 
 ---
 
 ## 👋 Hello, world
 
-Hi! I'm Quarksaur.
-Don't mind about this readme for now, I'm just testing a few things.
+Hi! My name is Quarksaur and I'm a 19 years old aspiring full stack developer.
 
 🚧 I'm currently curating my old projects, they will be publicly available as soon as possible 🚧
 
