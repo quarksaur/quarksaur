@@ -1,8 +1,11 @@
-## Hi there 👋
+## 👋 Hello, world
 
+Hi! I'm Quarksaur.
 Don't mind about this readme for now, I'm just testing a few things.
 
-## Knowledge
+🚧 I'm currently curating my old projects, they will be publicly available as soon as possible 🚧
+
+## 🧠 Knowledge
 ### Frontend Fundamentals
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
