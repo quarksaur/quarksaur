@@ -12,7 +12,7 @@ Web development is one of my greatest passions. So I'm always trying to expand m
 ## <br>🚧 Projects
 
 I'm currently curating many old projects.<br>
-Most of them need to be rewritten (while following the original objective), improved, documented or translated.<br>
+Most of them need to be rewritten (while following their original objectives), improved, documented or translated.<br>
 They will be publicly available as soon as possible.
 
 ## <br>📌 Available for hire
