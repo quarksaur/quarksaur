@@ -9,7 +9,11 @@ Hi! My name is Quarksaur and I'm a 19 years old aspiring full stack developer.<b
 I'm a second-year student in the Coding and Digital Innovation programme of the [Internet and Multimedia Institute](https://www.iim.fr/), in Paris.<br>
 Web development is one of my greatest passions. So I'm always trying to expand my expertise and build better apps/experiments.
 
-🚧 I'm currently curating my old projects, they will be publicly available as soon as possible 🚧
+## <br>🚧 Projects
+
+I'm currently curating many old projects.<br>
+Most of them need to be rewritten (while following the original objective), improved, documented or translated.<br>
+They will be publicly available as soon as possible.
 
 ## <br>📌 Available for hire
 I'm currently looking for a **2 to 4 months internship starting April 2025**.<br>
